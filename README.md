@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I', Taishi Eguchi 👋
+
+- Undergraduate student at the University of Tokyo
+- Software Engineer
+- [more info](https://taishi-eguchi.com/)
 
 <!--
 **shierote/shierote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
