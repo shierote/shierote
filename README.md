@@ -1,8 +1,8 @@
 ### Hi there, I', Taishi Eguchi 👋
 
-- 🧑‍🎓 Master student at the University of Tokyo
+- 🧑‍💻 Founder & CEO of ENIAQ, Inc.
 - 🧑‍💻 Software Engineer
-- [more info](https://taishi-eguchi.com/)
+
 
 <!--
 **shierote/shierote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
