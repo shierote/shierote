@@ -1,4 +1,4 @@
-### Hi there, I'm, Taishi Eguchi
+### Hi there, I'm Taishi Eguchi.
 
 - Founder & CEO of ENIAQ, Inc.
 - Software Engineer
