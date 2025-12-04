@@ -1,8 +1,7 @@
-### Hi there, I', Taishi Eguchi 👋
+### Hi there, I'm, Taishi Eguchi
 
-- 🧑‍💻 Founder & CEO of ENIAQ, Inc.
-- 🧑‍💻 Software Engineer
-
+- Founder & CEO of ENIAQ, Inc.
+- Software Engineer
 
 <!--
 **shierote/shierote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
